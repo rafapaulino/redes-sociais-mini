@@ -1,0 +1,23 @@
+{
+  "name": "redes-sociais-mini",
+  "homepage": "https://github.com/rafapaulino/redes-sociais-mini",
+  "description": "Redes sociais na sidebar e topo dos posts",
+  "main": "",
+  "license": "MIT",
+  "keywords": [
+    "redes sociais"
+  ],
+  "authors": [
+    "Rafael Paulino"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#4.7.0"
+  }
+}
